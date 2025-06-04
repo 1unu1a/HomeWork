@@ -1,0 +1,14 @@
+/Users/desertik/Work/HomeWork/HomeWork/bin/Debug/net9.0/HomeWork
+/Users/desertik/Work/HomeWork/HomeWork/bin/Debug/net9.0/HomeWork.deps.json
+/Users/desertik/Work/HomeWork/HomeWork/bin/Debug/net9.0/HomeWork.runtimeconfig.json
+/Users/desertik/Work/HomeWork/HomeWork/bin/Debug/net9.0/HomeWork.dll
+/Users/desertik/Work/HomeWork/HomeWork/bin/Debug/net9.0/HomeWork.pdb
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.AssemblyInfoInputs.cache
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.AssemblyInfo.cs
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.csproj.CoreCompileInputs.cache
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.dll
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/refint/HomeWork.dll
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.pdb
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.genruntimeconfig.cache
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/ref/HomeWork.dll
