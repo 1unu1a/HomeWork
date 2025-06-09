@@ -12,3 +12,4 @@
 /Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.pdb
 /Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.genruntimeconfig.cache
 /Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/ref/HomeWork.dll
+/Users/desertik/Work/HomeWork/HomeWork/obj/Debug/net9.0/HomeWork.sourcelink.json
