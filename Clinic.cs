@@ -2,17 +2,17 @@ namespace My.Home.Work;
 
 public class Clinic
 {
-    const int minutesPerPerson = 10;
-    const int minutesPerHour = 60;
+    const int MinutesPerPerson = 10;
+    const int MinutesPerHour = 60;
     
     public void PrintClinic()
     {
         Console.WriteLine($"Введите количество старушек: ");
         int numberOfPeople = int.Parse(Console.ReadLine());
 
-        int totalMinutes = numberOfPeople * minutesPerPerson;
-        int hours = totalMinutes / minutesPerHour;
-        int minutes = totalMinutes % minutesPerHour;
+        int totalMinutes = numberOfPeople * MinutesPerPerson;
+        int hours = totalMinutes / MinutesPerHour;
+        int minutes = totalMinutes % MinutesPerHour;
         
         string output = $"Вы должны отстоять в очереди {hours} час";
 
